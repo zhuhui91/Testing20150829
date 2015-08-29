@@ -1,0 +1,6 @@
+mvn clean 
+1,mvn compile
+2,mvn exec:java -Dexec.mainClass="com.hand.SpringExam8829.MainApp"
+数据库登录名：root
+密码:""
+登录密码为空
